@@ -14,6 +14,9 @@ sub gather {
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="HandheldFriendly" content="true">
     <meta charset="utf-8">
     <title>vnstat - $hostname</title>
     <style>
